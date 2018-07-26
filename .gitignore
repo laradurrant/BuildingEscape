@@ -77,4 +77,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Starter Pack Visual Assets
-BuildingEscape/Content/StarterContent
+/Content/StarterContent
